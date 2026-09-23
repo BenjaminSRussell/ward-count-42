@@ -839,3 +839,6 @@
 {"n":839,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the drum at the Lot. Nobody past the north mouth. We hit in 4 steps. Direct on the left lane, open."}
 {"n":840,"kind":"place","name":"the Lot north mouth","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Lot north mouth. Ivo keeps the drum for the hit. 5 steps, direct on the left lane, open."}
 {"n":841,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north mouth. direct left open. 6 steps. The drum stays for the hit."}
+{"n":842,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at the Lot. Nobody past the north mouth. We hit in 7 steps. Direct on the left lane, open."}
+{"n":843,"kind":"place","name":"the Lot north mouth","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Lot north mouth. Bess keeps the drum for the hit. 8 steps, direct on the left lane, open."}
+{"n":844,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north mouth. direct left open. 2 steps. The drum stays for the hit."}
