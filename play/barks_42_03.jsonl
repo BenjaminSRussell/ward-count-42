@@ -237,3 +237,6 @@
 {"n":237,"kind":"place","name":"Clinic roof west mouth","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Clinic roof west mouth. Nia keeps the radio coil for the hit. 7 steps, direct on the left lane, open."}
 {"n":238,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, west mouth. direct left open. 8 steps. The radio coil stays for the hit."}
 {"n":239,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at Clinic roof. Nobody past the west mouth. We hit in 2 steps. Direct on the left lane, open."}
+{"n":240,"kind":"place","name":"Clinic roof west mouth","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Clinic roof west mouth. Ivo keeps the radio coil for the hit. 3 steps, direct on the left lane, open."}
+{"n":241,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, west mouth. direct left open. 4 steps. The radio coil stays for the hit."}
+{"n":242,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the radio coil at Clinic roof. Nobody past the west mouth. We hit in 5 steps. Direct on the left lane, open."}
