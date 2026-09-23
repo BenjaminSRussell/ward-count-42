@@ -309,3 +309,6 @@
 {"n":309,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rope at Stockyard fence. Nobody past the west mouth. We hit in 3 steps. Direct on the left lane, open."}
 {"n":310,"kind":"place","name":"Stockyard fence west mouth","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Stockyard fence west mouth. Matt keeps the rope for the hit. 4 steps, direct on the left lane, open."}
 {"n":311,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, west mouth. direct left open. 5 steps. The rope stays for the hit."}
+{"n":312,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rope at Stockyard fence. Nobody past the west mouth. We hit in 6 steps. Direct on the left lane, open."}
+{"n":313,"kind":"place","name":"Stockyard fence west mouth","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Stockyard fence west mouth. Nia keeps the rope for the hit. 7 steps, direct on the left lane, open."}
+{"n":314,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, west mouth. direct left open. 8 steps. The rope stays for the hit."}
