@@ -203,3 +203,6 @@
 {"n":203,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, east mouth. direct left open. 6 steps. The radio coil stays for the hit."}
 {"n":204,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at Mast yard. Nobody past the east mouth. We hit in 7 steps. Direct on the left lane, open."}
 {"n":205,"kind":"place","name":"Mast yard east mouth","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Mast yard east mouth. Nia keeps the radio coil for the hit. 8 steps, direct on the left lane, open."}
+{"n":206,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, east mouth. direct left open. 2 steps. The radio coil stays for the hit."}
+{"n":207,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at Mast yard. Nobody past the east mouth. We hit in 3 steps. Direct on the left lane, open."}
+{"n":208,"kind":"place","name":"Mast yard east mouth","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mast yard east mouth. Ivo keeps the radio coil for the hit. 4 steps, direct on the left lane, open."}
