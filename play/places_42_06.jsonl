@@ -232,3 +232,6 @@
 {"n":232,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, north mouth. direct left open. 6 steps. The rebar stays for the hit."}
 {"n":233,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rebar at South stair. Nobody past the north mouth. We hit in 7 steps. Direct on the left lane, open."}
 {"n":234,"kind":"place","name":"South stair north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"South stair north mouth. Matt keeps the rebar for the hit. 8 steps, direct on the left lane, open."}
+{"n":235,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, north mouth. direct left open. 2 steps. The rebar stays for the hit."}
+{"n":236,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rebar at South stair. Nobody past the north mouth. We hit in 3 steps. Direct on the left lane, open."}
+{"n":237,"kind":"place","name":"South stair north mouth","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"South stair north mouth. Nia keeps the rebar for the hit. 4 steps, direct on the left lane, open."}
