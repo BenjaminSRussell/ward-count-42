@@ -946,3 +946,6 @@
 {"n":946,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at Ward gate. Nobody past the west mouth. We hit in 4 steps. Direct on the left lane, open."}
 {"n":947,"kind":"place","name":"Ward gate west mouth","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Ward gate west mouth. Bess keeps the lamp for the hit. 5 steps, direct on the left lane, open."}
 {"n":948,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, west mouth. direct left open. 6 steps. The lamp stays for the hit."}
+{"n":949,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Kessler alley. Nobody past the west mouth. We hit in 7 steps. Direct on the left lane, open."}
+{"n":950,"kind":"place","name":"Kessler alley west mouth","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Kessler alley west mouth. Matt keeps the lamp for the hit. 8 steps, direct on the left lane, open."}
+{"n":951,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, west mouth. direct left open. 2 steps. The lamp stays for the hit."}
