@@ -626,3 +626,6 @@
 {"n":626,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at Drydock. Nobody past the north mouth. We hit in 8 steps. Direct on the left lane, open."}
 {"n":627,"kind":"place","name":"Drydock north mouth","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Drydock north mouth. Bess keeps the shutter for the hit. 2 steps, direct on the left lane, open."}
 {"n":628,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, north mouth. direct left open. 3 steps. The shutter stays for the hit."}
+{"n":629,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the shutter at High line. Nobody past the north mouth. We hit in 4 steps. Direct on the left lane, open."}
+{"n":630,"kind":"place","name":"High line north mouth","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"High line north mouth. Matt keeps the shutter for the hit. 5 steps, direct on the left lane, open."}
+{"n":631,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, north mouth. direct left open. 6 steps. The shutter stays for the hit."}
