@@ -272,3 +272,6 @@
 {"n":272,"kind":"place","name":"Ward gate west mouth","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Ward gate west mouth. Ivo keeps the plywood for the hit. 2 steps, direct on the left lane, open."}
 {"n":273,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, west mouth. direct left open. 3 steps. The plywood stays for the hit."}
 {"n":274,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the plywood at Ward gate. Nobody past the west mouth. We hit in 4 steps. Direct on the left lane, open."}
+{"n":275,"kind":"place","name":"Ward gate west mouth","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Ward gate west mouth. Bess keeps the plywood for the hit. 5 steps, direct on the left lane, open."}
+{"n":276,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, west mouth. direct left open. 6 steps. The plywood stays for the hit."}
+{"n":277,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at Kessler alley. Nobody past the west mouth. We hit in 7 steps. Direct on the left lane, open."}
