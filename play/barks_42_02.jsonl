@@ -262,3 +262,6 @@
 {"n":262,"kind":"place","name":"High line west mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"High line west mouth. Matt keeps the rebar for the hit. 5 steps, direct on the left lane, open."}
 {"n":263,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, west mouth. direct left open. 6 steps. The rebar stays for the hit."}
 {"n":264,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rebar at High line. Nobody past the west mouth. We hit in 7 steps. Direct on the left lane, open."}
+{"n":265,"kind":"place","name":"High line west mouth","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"High line west mouth. Nia keeps the rebar for the hit. 8 steps, direct on the left lane, open."}
+{"n":266,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, west mouth. direct left open. 2 steps. The rebar stays for the hit."}
+{"n":267,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rebar at High line. Nobody past the west mouth. We hit in 3 steps. Direct on the left lane, open."}
