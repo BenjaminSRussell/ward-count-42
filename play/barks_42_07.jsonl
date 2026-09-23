@@ -689,3 +689,6 @@
 {"n":689,"kind":"place","name":"Stockyard fence south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Stockyard fence south mouth. Nia keeps the barrel for the hit. 7 steps, direct on the left lane, open."}
 {"n":690,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, south mouth. direct left open. 8 steps. The barrel stays for the hit."}
 {"n":691,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at Stockyard fence. Nobody past the south mouth. We hit in 2 steps. Direct on the left lane, open."}
+{"n":692,"kind":"place","name":"Stockyard fence south mouth","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Stockyard fence south mouth. Ivo keeps the barrel for the hit. 3 steps, direct on the left lane, open."}
+{"n":693,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, south mouth. direct left open. 4 steps. The barrel stays for the hit."}
+{"n":694,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at Stockyard fence. Nobody past the south mouth. We hit in 5 steps. Direct on the left lane, open."}
