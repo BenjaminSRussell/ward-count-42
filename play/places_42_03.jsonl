@@ -568,3 +568,6 @@
 {"n":568,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, east mouth. direct left open. 2 steps. The hydrant stays for the hit."}
 {"n":569,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the hydrant at Clinic roof. Nobody past the east mouth. We hit in 3 steps. Direct on the left lane, open."}
 {"n":570,"kind":"place","name":"Clinic roof east mouth","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Clinic roof east mouth. Matt keeps the hydrant for the hit. 4 steps, direct on the left lane, open."}
+{"n":571,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, east mouth. direct left open. 5 steps. The hydrant stays for the hit."}
+{"n":572,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the hydrant at Clinic roof. Nobody past the east mouth. We hit in 6 steps. Direct on the left lane, open."}
+{"n":573,"kind":"place","name":"Clinic roof east mouth","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Clinic roof east mouth. Nia keeps the hydrant for the hit. 7 steps, direct on the left lane, open."}
