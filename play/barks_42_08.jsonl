@@ -655,3 +655,6 @@
 {"n":655,"kind":"place","name":"High line south mouth","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line south mouth. Bess keeps the shutter for the hit. 7 steps, direct on the left lane, open."}
 {"n":656,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south mouth. direct left open. 8 steps. The shutter stays for the hit."}
 {"n":657,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at Ward gate. Nobody past the south mouth. We hit in 2 steps. Direct on the left lane, open."}
+{"n":658,"kind":"place","name":"Ward gate south mouth","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Ward gate south mouth. Matt keeps the awning for the hit. 3 steps, direct on the left lane, open."}
+{"n":659,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south mouth. direct left open. 4 steps. The awning stays for the hit."}
+{"n":660,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at Ward gate. Nobody past the south mouth. We hit in 5 steps. Direct on the left lane, open."}
