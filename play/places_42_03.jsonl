@@ -949,3 +949,6 @@
 {"n":949,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east mouth. direct left open. 5 steps. The crate stays for the hit."}
 {"n":950,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at High line. Nobody past the east mouth. We hit in 6 steps. Direct on the left lane, open."}
 {"n":951,"kind":"place","name":"High line east mouth","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line east mouth. Bess keeps the crate for the hit. 7 steps, direct on the left lane, open."}
+{"n":952,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east mouth. direct left open. 8 steps. The crate stays for the hit."}
+{"n":953,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Ward gate. Nobody past the east mouth. We hit in 2 steps. Direct on the left lane, open."}
+{"n":954,"kind":"place","name":"Ward gate east mouth","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate east mouth. Matt keeps the lamp for the hit. 3 steps, direct on the left lane, open."}
