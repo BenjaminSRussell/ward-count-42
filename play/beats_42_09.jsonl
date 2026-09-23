@@ -452,3 +452,6 @@
 {"n":452,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at Clinic roof. Nobody past the west dock. We hit in 6 steps. Direct on the left lane, open."}
 {"n":453,"kind":"place","name":"Clinic roof west dock","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Clinic roof west dock. Nia keeps the plywood for the hit. 7 steps, direct on the left lane, open."}
 {"n":454,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, west dock. direct left open. 8 steps. The plywood stays for the hit."}
+{"n":455,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at Clinic roof. Nobody past the west dock. We hit in 2 steps. Direct on the left lane, open."}
+{"n":456,"kind":"place","name":"Clinic roof west dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Clinic roof west dock. Ivo keeps the plywood for the hit. 3 steps, direct on the left lane, open."}
+{"n":457,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, west dock. direct left open. 4 steps. The plywood stays for the hit."}
