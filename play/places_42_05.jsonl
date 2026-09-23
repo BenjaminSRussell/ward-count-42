@@ -875,3 +875,6 @@
 {"n":875,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, north mouth. direct left open. 6 steps. The crate stays for the hit."}
 {"n":876,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at Mast yard. Nobody past the north mouth. We hit in 7 steps. Direct on the left lane, open."}
 {"n":877,"kind":"place","name":"Mast yard north mouth","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Mast yard north mouth. Nia keeps the crate for the hit. 8 steps, direct on the left lane, open."}
+{"n":878,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, north mouth. direct left open. 2 steps. The crate stays for the hit."}
+{"n":879,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at Mast yard. Nobody past the north mouth. We hit in 3 steps. Direct on the left lane, open."}
+{"n":880,"kind":"place","name":"Mast yard north mouth","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mast yard north mouth. Ivo keeps the crate for the hit. 4 steps, direct on the left lane, open."}
