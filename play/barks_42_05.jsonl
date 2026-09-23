@@ -622,3 +622,6 @@
 {"n":622,"kind":"place","name":"High line north mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"High line north mouth. Matt keeps the hydrant for the hit. 5 steps, direct on the left lane, open."}
 {"n":623,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, north mouth. direct left open. 6 steps. The hydrant stays for the hit."}
 {"n":624,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the hydrant at High line. Nobody past the north mouth. We hit in 7 steps. Direct on the left lane, open."}
+{"n":625,"kind":"place","name":"High line north mouth","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"High line north mouth. Nia keeps the hydrant for the hit. 8 steps, direct on the left lane, open."}
+{"n":626,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, north mouth. direct left open. 2 steps. The hydrant stays for the hit."}
+{"n":627,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the hydrant at High line. Nobody past the north mouth. We hit in 3 steps. Direct on the left lane, open."}
