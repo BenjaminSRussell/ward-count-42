@@ -907,3 +907,6 @@
 {"n":907,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at Switchyard. Nobody past the west mouth. We hit in 7 steps. Direct on the left lane, open."}
 {"n":908,"kind":"place","name":"Switchyard west mouth","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard west mouth. Ivo keeps the crate for the hit. 8 steps, direct on the left lane, open."}
 {"n":909,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west mouth. direct left open. 2 steps. The crate stays for the hit."}
+{"n":910,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at Switchyard. Nobody past the west mouth. We hit in 3 steps. Direct on the left lane, open."}
+{"n":911,"kind":"place","name":"Switchyard west mouth","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard west mouth. Bess keeps the crate for the hit. 4 steps, direct on the left lane, open."}
+{"n":912,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west mouth. direct left open. 5 steps. The crate stays for the hit."}
