@@ -359,3 +359,6 @@
 {"n":359,"kind":"place","name":"Stockyard fence south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Stockyard fence south mouth. Bess keeps the plywood for the hit. 6 steps, direct on the left lane, open."}
 {"n":360,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, south mouth. direct left open. 7 steps. The plywood stays for the hit."}
 {"n":361,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at Mall court. Nobody past the south mouth. We hit in 8 steps. Direct on the left lane, open."}
+{"n":362,"kind":"place","name":"Mall court south mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Mall court south mouth. Matt keeps the plywood for the hit. 2 steps, direct on the left lane, open."}
+{"n":363,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, south mouth. direct left open. 3 steps. The plywood stays for the hit."}
+{"n":364,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at Mall court. Nobody past the south mouth. We hit in 4 steps. Direct on the left lane, open."}
