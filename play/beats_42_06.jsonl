@@ -398,3 +398,6 @@
 {"n":398,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rope at Last Light. Nobody past the north mouth. We hit in 4 steps. Direct on the left lane, open."}
 {"n":399,"kind":"place","name":"Last Light north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Last Light north mouth. Bess keeps the rope for the hit. 5 steps, direct on the left lane, open."}
 {"n":400,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, north mouth. direct left open. 6 steps. The rope stays for the hit."}
+{"n":401,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rope at South stair. Nobody past the north mouth. We hit in 7 steps. Direct on the left lane, open."}
+{"n":402,"kind":"place","name":"South stair north mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"South stair north mouth. Matt keeps the rope for the hit. 8 steps, direct on the left lane, open."}
+{"n":403,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, north mouth. direct left open. 2 steps. The rope stays for the hit."}
